@@ -5,7 +5,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688)
 ![React](https://img.shields.io/badge/React-Frontend-61DAFB)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-336791)
-![Hyperledger Fabric](https://img.shields.io/badge/Hyperledger%20Fabric-Optional-2F3134)
+![Hyperledger Fabric](https://img.shields.io/badge/Hyperledger%20Fabric-Blockchain-2F3134)
 
 PharmaVerse AI is an intelligent pharmaceutical supply-chain traceability and anti-counterfeit platform. It combines QR and RFID identity verification, database-backed tracking, optional Hyperledger Fabric integration, environmental anomaly detection, machine-learning risk assessment, and regulatory reference information.
 
